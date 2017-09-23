@@ -1,4 +1,5 @@
-{"Pokemon":  [
+{ "Pokemon":  
+  [
     {
       "pokemon_id": 1,
       "pokemon_name": "bulbasaur",
@@ -8110,5008 +8111,6131 @@
       "img_location": "\\images\\artwork\\15.png"
     }
   ],
-  "PokemonType":[
+  "PokemonType": [
     {
       "pokemon_id": 1,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 1,
-      "type_id": 4
-    },
-    {
-      "pokemon_id": 2,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 2,
-      "type_id": 4
-    },
-    {
-      "pokemon_id": 3,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 3,
-      "type_id": 4
-    },
-    {
-      "pokemon_id": 4,
-      "type_id": 10
-    },
-    {
-      "pokemon_id": 5,
-      "type_id": 10
-    },
-    {
-      "pokemon_id": 6,
-      "type_id": 10
-    },
-    {
-      "pokemon_id": 6,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 7,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 8,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 9,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 10,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 11,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 12,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 12,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 13,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 13,
-      "type_id": 4
-    },
-    {
-      "pokemon_id": 14,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 14,
-      "type_id": 4
-    },
-    {
-      "pokemon_id": 15,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 15,
-      "type_id": 4
-    },
-    {
-      "pokemon_id": 16,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 16,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 17,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 17,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 18,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 18,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 19,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 20,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 21,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 21,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 22,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 22,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 23,
-      "type_id": 4
-    },
-    {
-      "pokemon_id": 24,
-      "type_id": 4
-    },
-    {
-      "pokemon_id": 25,
-      "type_id": 13
-    },
-    {
-      "pokemon_id": 26,
-      "type_id": 13
-    },
-    {
-      "pokemon_id": 27,
-      "type_id": 5
-    },
-    {
-      "pokemon_id": 28,
-      "type_id": 5
-    },
-    {
-      "pokemon_id": 29,
-      "type_id": 4
-    },
-    {
-      "pokemon_id": 30,
-      "type_id": 4
-    },
-    {
-      "pokemon_id": 31,
-      "type_id": 4
-    },
-    {
-      "pokemon_id": 31,
-      "type_id": 5
-    },
-    {
-      "pokemon_id": 32,
-      "type_id": 4
-    },
-    {
-      "pokemon_id": 33,
-      "type_id": 4
-    },
-    {
-      "pokemon_id": 34,
-      "type_id": 4
-    },
-    {
-      "pokemon_id": 34,
-      "type_id": 5
-    },
-    {
-      "pokemon_id": 35,
-      "type_id": 18
-    },
-    {
-      "pokemon_id": 36,
-      "type_id": 18
-    },
-    {
-      "pokemon_id": 37,
-      "type_id": 10
-    },
-    {
-      "pokemon_id": 38,
-      "type_id": 10
-    },
-    {
-      "pokemon_id": 39,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 39,
-      "type_id": 18
-    },
-    {
-      "pokemon_id": 40,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 40,
-      "type_id": 18
-    },
-    {
-      "pokemon_id": 41,
-      "type_id": 4
-    },
-    {
-      "pokemon_id": 41,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 42,
-      "type_id": 4
-    },
-    {
-      "pokemon_id": 42,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 43,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 43,
-      "type_id": 4
-    },
-    {
-      "pokemon_id": 44,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 44,
-      "type_id": 4
-    },
-    {
-      "pokemon_id": 45,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 45,
-      "type_id": 4
-    },
-    {
-      "pokemon_id": 46,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 46,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 47,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 47,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 48,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 48,
-      "type_id": 4
-    },
-    {
-      "pokemon_id": 49,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 49,
-      "type_id": 4
-    },
-    {
-      "pokemon_id": 50,
-      "type_id": 5
-    },
-    {
-      "pokemon_id": 51,
-      "type_id": 5
-    },
-    {
-      "pokemon_id": 52,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 53,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 54,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 55,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 56,
-      "type_id": 2
-    },
-    {
-      "pokemon_id": 57,
-      "type_id": 2
-    },
-    {
-      "pokemon_id": 58,
-      "type_id": 10
-    },
-    {
-      "pokemon_id": 59,
-      "type_id": 10
-    },
-    {
-      "pokemon_id": 60,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 61,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 62,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 62,
-      "type_id": 2
-    },
-    {
-      "pokemon_id": 63,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 64,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 65,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 66,
-      "type_id": 2
-    },
-    {
-      "pokemon_id": 67,
-      "type_id": 2
-    },
-    {
-      "pokemon_id": 68,
-      "type_id": 2
-    },
-    {
-      "pokemon_id": 69,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 69,
-      "type_id": 4
-    },
-    {
-      "pokemon_id": 70,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 70,
-      "type_id": 4
-    },
-    {
-      "pokemon_id": 71,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 71,
-      "type_id": 4
-    },
-    {
-      "pokemon_id": 72,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 72,
-      "type_id": 4
-    },
-    {
-      "pokemon_id": 73,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 73,
-      "type_id": 4
-    },
-    {
-      "pokemon_id": 74,
-      "type_id": 6
-    },
-    {
-      "pokemon_id": 74,
-      "type_id": 5
-    },
-    {
-      "pokemon_id": 75,
-      "type_id": 6
-    },
-    {
-      "pokemon_id": 75,
-      "type_id": 5
-    },
-    {
-      "pokemon_id": 76,
-      "type_id": 6
-    },
-    {
-      "pokemon_id": 76,
-      "type_id": 5
-    },
-    {
-      "pokemon_id": 77,
-      "type_id": 10
-    },
-    {
-      "pokemon_id": 78,
-      "type_id": 10
-    },
-    {
-      "pokemon_id": 79,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 79,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 80,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 80,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 81,
-      "type_id": 13
-    },
-    {
-      "pokemon_id": 81,
-      "type_id": 9
-    },
-    {
-      "pokemon_id": 82,
-      "type_id": 13
-    },
-    {
-      "pokemon_id": 82,
-      "type_id": 9
-    },
-    {
-      "pokemon_id": 83,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 83,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 84,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 84,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 85,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 85,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 86,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 87,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 87,
-      "type_id": 15
-    },
-    {
-      "pokemon_id": 88,
-      "type_id": 4
-    },
-    {
-      "pokemon_id": 89,
-      "type_id": 4
-    },
-    {
-      "pokemon_id": 90,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 91,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 91,
-      "type_id": 15
-    },
-    {
-      "pokemon_id": 92,
-      "type_id": 8
-    },
-    {
-      "pokemon_id": 92,
-      "type_id": 4
-    },
-    {
-      "pokemon_id": 93,
-      "type_id": 8
-    },
-    {
-      "pokemon_id": 93,
-      "type_id": 4
-    },
-    {
-      "pokemon_id": 94,
-      "type_id": 8
-    },
-    {
-      "pokemon_id": 94,
-      "type_id": 4
-    },
-    {
-      "pokemon_id": 95,
-      "type_id": 6
-    },
-    {
-      "pokemon_id": 95,
-      "type_id": 5
-    },
-    {
-      "pokemon_id": 96,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 97,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 98,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 99,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 100,
-      "type_id": 13
-    },
-    {
-      "pokemon_id": 101,
-      "type_id": 13
-    },
-    {
-      "pokemon_id": 102,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 102,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 103,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 103,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 104,
-      "type_id": 5
-    },
-    {
-      "pokemon_id": 105,
-      "type_id": 5
-    },
-    {
-      "pokemon_id": 106,
-      "type_id": 2
-    },
-    {
-      "pokemon_id": 107,
-      "type_id": 2
-    },
-    {
-      "pokemon_id": 108,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 109,
-      "type_id": 4
-    },
-    {
-      "pokemon_id": 110,
-      "type_id": 4
-    },
-    {
-      "pokemon_id": 111,
-      "type_id": 5
-    },
-    {
-      "pokemon_id": 111,
-      "type_id": 6
-    },
-    {
-      "pokemon_id": 112,
-      "type_id": 5
-    },
-    {
-      "pokemon_id": 112,
-      "type_id": 6
-    },
-    {
-      "pokemon_id": 113,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 114,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 115,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 116,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 117,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 118,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 119,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 120,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 121,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 121,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 122,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 122,
-      "type_id": 18
-    },
-    {
-      "pokemon_id": 123,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 123,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 124,
-      "type_id": 15
-    },
-    {
-      "pokemon_id": 124,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 125,
-      "type_id": 13
-    },
-    {
-      "pokemon_id": 126,
-      "type_id": 10
-    },
-    {
-      "pokemon_id": 127,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 128,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 129,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 130,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 130,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 131,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 131,
-      "type_id": 15
-    },
-    {
-      "pokemon_id": 132,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 133,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 134,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 135,
-      "type_id": 13
-    },
-    {
-      "pokemon_id": 136,
-      "type_id": 10
-    },
-    {
-      "pokemon_id": 137,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 138,
-      "type_id": 6
-    },
-    {
-      "pokemon_id": 138,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 139,
-      "type_id": 6
-    },
-    {
-      "pokemon_id": 139,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 140,
-      "type_id": 6
-    },
-    {
-      "pokemon_id": 140,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 141,
-      "type_id": 6
-    },
-    {
-      "pokemon_id": 141,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 142,
-      "type_id": 6
-    },
-    {
-      "pokemon_id": 142,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 143,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 144,
-      "type_id": 15
-    },
-    {
-      "pokemon_id": 144,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 145,
-      "type_id": 13
-    },
-    {
-      "pokemon_id": 145,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 146,
-      "type_id": 10
-    },
-    {
-      "pokemon_id": 146,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 147,
-      "type_id": 16
-    },
-    {
-      "pokemon_id": 148,
-      "type_id": 16
-    },
-    {
-      "pokemon_id": 149,
-      "type_id": 16
-    },
-    {
-      "pokemon_id": 149,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 150,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 151,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 152,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 153,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 154,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 155,
-      "type_id": 10
-    },
-    {
-      "pokemon_id": 156,
-      "type_id": 10
-    },
-    {
-      "pokemon_id": 157,
-      "type_id": 10
-    },
-    {
-      "pokemon_id": 158,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 159,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 160,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 161,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 162,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 163,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 163,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 164,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 164,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 165,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 165,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 166,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 166,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 167,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 167,
-      "type_id": 4
-    },
-    {
-      "pokemon_id": 168,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 168,
-      "type_id": 4
-    },
-    {
-      "pokemon_id": 169,
-      "type_id": 4
-    },
-    {
-      "pokemon_id": 169,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 170,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 170,
-      "type_id": 13
-    },
-    {
-      "pokemon_id": 171,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 171,
-      "type_id": 13
-    },
-    {
-      "pokemon_id": 172,
-      "type_id": 13
-    },
-    {
-      "pokemon_id": 173,
-      "type_id": 18
-    },
-    {
-      "pokemon_id": 174,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 174,
-      "type_id": 18
-    },
-    {
-      "pokemon_id": 175,
-      "type_id": 18
-    },
-    {
-      "pokemon_id": 176,
-      "type_id": 18
-    },
-    {
-      "pokemon_id": 176,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 177,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 177,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 178,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 178,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 179,
-      "type_id": 13
-    },
-    {
-      "pokemon_id": 180,
-      "type_id": 13
-    },
-    {
-      "pokemon_id": 181,
-      "type_id": 13
-    },
-    {
-      "pokemon_id": 182,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 183,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 183,
-      "type_id": 18
-    },
-    {
-      "pokemon_id": 184,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 184,
-      "type_id": 18
-    },
-    {
-      "pokemon_id": 185,
-      "type_id": 6
-    },
-    {
-      "pokemon_id": 186,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 187,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 187,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 188,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 188,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 189,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 189,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 190,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 191,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 192,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 193,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 193,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 194,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 194,
-      "type_id": 5
-    },
-    {
-      "pokemon_id": 195,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 195,
-      "type_id": 5
-    },
-    {
-      "pokemon_id": 196,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 197,
-      "type_id": 17
-    },
-    {
-      "pokemon_id": 198,
-      "type_id": 17
-    },
-    {
-      "pokemon_id": 198,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 199,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 199,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 200,
-      "type_id": 8
-    },
-    {
-      "pokemon_id": 201,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 202,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 203,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 203,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 204,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 205,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 205,
-      "type_id": 9
-    },
-    {
-      "pokemon_id": 206,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 207,
-      "type_id": 5
-    },
-    {
-      "pokemon_id": 207,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 208,
-      "type_id": 9
-    },
-    {
-      "pokemon_id": 208,
-      "type_id": 5
-    },
-    {
-      "pokemon_id": 209,
-      "type_id": 18
-    },
-    {
-      "pokemon_id": 210,
-      "type_id": 18
-    },
-    {
-      "pokemon_id": 211,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 211,
-      "type_id": 4
-    },
-    {
-      "pokemon_id": 212,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 212,
-      "type_id": 9
-    },
-    {
-      "pokemon_id": 213,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 213,
-      "type_id": 6
-    },
-    {
-      "pokemon_id": 214,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 214,
-      "type_id": 2
-    },
-    {
-      "pokemon_id": 215,
-      "type_id": 17
-    },
-    {
-      "pokemon_id": 215,
-      "type_id": 15
-    },
-    {
-      "pokemon_id": 216,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 217,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 218,
-      "type_id": 10
-    },
-    {
-      "pokemon_id": 219,
-      "type_id": 10
-    },
-    {
-      "pokemon_id": 219,
-      "type_id": 6
-    },
-    {
-      "pokemon_id": 220,
-      "type_id": 15
-    },
-    {
-      "pokemon_id": 220,
-      "type_id": 5
-    },
-    {
-      "pokemon_id": 221,
-      "type_id": 15
-    },
-    {
-      "pokemon_id": 221,
-      "type_id": 5
-    },
-    {
-      "pokemon_id": 222,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 222,
-      "type_id": 6
-    },
-    {
-      "pokemon_id": 223,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 224,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 225,
-      "type_id": 15
-    },
-    {
-      "pokemon_id": 225,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 226,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 226,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 227,
-      "type_id": 9
-    },
-    {
-      "pokemon_id": 227,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 228,
-      "type_id": 17
-    },
-    {
-      "pokemon_id": 228,
-      "type_id": 10
-    },
-    {
-      "pokemon_id": 229,
-      "type_id": 17
-    },
-    {
-      "pokemon_id": 229,
-      "type_id": 10
-    },
-    {
-      "pokemon_id": 230,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 230,
-      "type_id": 16
-    },
-    {
-      "pokemon_id": 231,
-      "type_id": 5
-    },
-    {
-      "pokemon_id": 232,
-      "type_id": 5
-    },
-    {
-      "pokemon_id": 233,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 234,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 235,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 236,
-      "type_id": 2
-    },
-    {
-      "pokemon_id": 237,
-      "type_id": 2
-    },
-    {
-      "pokemon_id": 238,
-      "type_id": 15
-    },
-    {
-      "pokemon_id": 238,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 239,
-      "type_id": 13
-    },
-    {
-      "pokemon_id": 240,
-      "type_id": 10
-    },
-    {
-      "pokemon_id": 241,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 242,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 243,
-      "type_id": 13
-    },
-    {
-      "pokemon_id": 244,
-      "type_id": 10
-    },
-    {
-      "pokemon_id": 245,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 246,
-      "type_id": 6
-    },
-    {
-      "pokemon_id": 246,
-      "type_id": 5
-    },
-    {
-      "pokemon_id": 247,
-      "type_id": 6
-    },
-    {
-      "pokemon_id": 247,
-      "type_id": 5
-    },
-    {
-      "pokemon_id": 248,
-      "type_id": 6
-    },
-    {
-      "pokemon_id": 248,
-      "type_id": 17
-    },
-    {
-      "pokemon_id": 249,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 249,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 250,
-      "type_id": 10
-    },
-    {
-      "pokemon_id": 250,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 251,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 251,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 252,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 253,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 254,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 255,
-      "type_id": 10
-    },
-    {
-      "pokemon_id": 256,
-      "type_id": 10
-    },
-    {
-      "pokemon_id": 256,
-      "type_id": 2
-    },
-    {
-      "pokemon_id": 257,
-      "type_id": 10
-    },
-    {
-      "pokemon_id": 257,
-      "type_id": 2
-    },
-    {
-      "pokemon_id": 258,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 259,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 259,
-      "type_id": 5
-    },
-    {
-      "pokemon_id": 260,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 260,
-      "type_id": 5
-    },
-    {
-      "pokemon_id": 261,
-      "type_id": 17
-    },
-    {
-      "pokemon_id": 262,
-      "type_id": 17
-    },
-    {
-      "pokemon_id": 263,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 264,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 265,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 266,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 267,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 267,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 268,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 269,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 269,
-      "type_id": 4
-    },
-    {
-      "pokemon_id": 270,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 270,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 271,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 271,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 272,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 272,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 273,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 274,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 274,
-      "type_id": 17
-    },
-    {
-      "pokemon_id": 275,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 275,
-      "type_id": 17
-    },
-    {
-      "pokemon_id": 276,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 276,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 277,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 277,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 278,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 278,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 279,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 279,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 280,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 280,
-      "type_id": 18
-    },
-    {
-      "pokemon_id": 281,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 281,
-      "type_id": 18
-    },
-    {
-      "pokemon_id": 282,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 282,
-      "type_id": 18
-    },
-    {
-      "pokemon_id": 283,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 283,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 284,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 284,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 285,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 286,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 286,
-      "type_id": 2
-    },
-    {
-      "pokemon_id": 287,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 288,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 289,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 290,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 290,
-      "type_id": 5
-    },
-    {
-      "pokemon_id": 291,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 291,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 292,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 292,
-      "type_id": 8
-    },
-    {
-      "pokemon_id": 293,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 294,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 295,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 296,
-      "type_id": 2
-    },
-    {
-      "pokemon_id": 297,
-      "type_id": 2
-    },
-    {
-      "pokemon_id": 298,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 298,
-      "type_id": 18
-    },
-    {
-      "pokemon_id": 299,
-      "type_id": 6
-    },
-    {
-      "pokemon_id": 300,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 301,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 302,
-      "type_id": 17
-    },
-    {
-      "pokemon_id": 302,
-      "type_id": 8
-    },
-    {
-      "pokemon_id": 303,
-      "type_id": 9
-    },
-    {
-      "pokemon_id": 303,
-      "type_id": 18
-    },
-    {
-      "pokemon_id": 304,
-      "type_id": 9
-    },
-    {
-      "pokemon_id": 304,
-      "type_id": 6
-    },
-    {
-      "pokemon_id": 305,
-      "type_id": 9
-    },
-    {
-      "pokemon_id": 305,
-      "type_id": 6
-    },
-    {
-      "pokemon_id": 306,
-      "type_id": 9
-    },
-    {
-      "pokemon_id": 306,
-      "type_id": 6
-    },
-    {
-      "pokemon_id": 307,
-      "type_id": 2
-    },
-    {
-      "pokemon_id": 307,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 308,
-      "type_id": 2
-    },
-    {
-      "pokemon_id": 308,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 309,
-      "type_id": 13
-    },
-    {
-      "pokemon_id": 310,
-      "type_id": 13
-    },
-    {
-      "pokemon_id": 311,
-      "type_id": 13
-    },
-    {
-      "pokemon_id": 312,
-      "type_id": 13
-    },
-    {
-      "pokemon_id": 313,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 314,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 315,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 315,
-      "type_id": 4
-    },
-    {
-      "pokemon_id": 316,
-      "type_id": 4
-    },
-    {
-      "pokemon_id": 317,
-      "type_id": 4
-    },
-    {
-      "pokemon_id": 318,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 318,
-      "type_id": 17
-    },
-    {
-      "pokemon_id": 319,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 319,
-      "type_id": 17
-    },
-    {
-      "pokemon_id": 320,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 321,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 322,
-      "type_id": 10
-    },
-    {
-      "pokemon_id": 322,
-      "type_id": 5
-    },
-    {
-      "pokemon_id": 323,
-      "type_id": 10
-    },
-    {
-      "pokemon_id": 323,
-      "type_id": 5
-    },
-    {
-      "pokemon_id": 324,
-      "type_id": 10
-    },
-    {
-      "pokemon_id": 325,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 326,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 327,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 328,
-      "type_id": 5
-    },
-    {
-      "pokemon_id": 329,
-      "type_id": 5
-    },
-    {
-      "pokemon_id": 329,
-      "type_id": 16
-    },
-    {
-      "pokemon_id": 330,
-      "type_id": 5
-    },
-    {
-      "pokemon_id": 330,
-      "type_id": 16
-    },
-    {
-      "pokemon_id": 331,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 332,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 332,
-      "type_id": 17
-    },
-    {
-      "pokemon_id": 333,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 333,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 334,
-      "type_id": 16
-    },
-    {
-      "pokemon_id": 334,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 335,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 336,
-      "type_id": 4
-    },
-    {
-      "pokemon_id": 337,
-      "type_id": 6
-    },
-    {
-      "pokemon_id": 337,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 338,
-      "type_id": 6
-    },
-    {
-      "pokemon_id": 338,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 339,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 339,
-      "type_id": 5
-    },
-    {
-      "pokemon_id": 340,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 340,
-      "type_id": 5
-    },
-    {
-      "pokemon_id": 341,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 342,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 342,
-      "type_id": 17
-    },
-    {
-      "pokemon_id": 343,
-      "type_id": 5
-    },
-    {
-      "pokemon_id": 343,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 344,
-      "type_id": 5
-    },
-    {
-      "pokemon_id": 344,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 345,
-      "type_id": 6
-    },
-    {
-      "pokemon_id": 345,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 346,
-      "type_id": 6
-    },
-    {
-      "pokemon_id": 346,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 347,
-      "type_id": 6
-    },
-    {
-      "pokemon_id": 347,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 348,
-      "type_id": 6
-    },
-    {
-      "pokemon_id": 348,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 349,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 350,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 351,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 352,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 353,
-      "type_id": 8
-    },
-    {
-      "pokemon_id": 354,
-      "type_id": 8
-    },
-    {
-      "pokemon_id": 355,
-      "type_id": 8
-    },
-    {
-      "pokemon_id": 356,
-      "type_id": 8
-    },
-    {
-      "pokemon_id": 357,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 357,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 358,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 359,
-      "type_id": 17
-    },
-    {
-      "pokemon_id": 360,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 361,
-      "type_id": 15
-    },
-    {
-      "pokemon_id": 362,
-      "type_id": 15
-    },
-    {
-      "pokemon_id": 363,
-      "type_id": 15
-    },
-    {
-      "pokemon_id": 363,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 364,
-      "type_id": 15
-    },
-    {
-      "pokemon_id": 364,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 365,
-      "type_id": 15
-    },
-    {
-      "pokemon_id": 365,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 366,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 367,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 368,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 369,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 369,
-      "type_id": 6
-    },
-    {
-      "pokemon_id": 370,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 371,
-      "type_id": 16
-    },
-    {
-      "pokemon_id": 372,
-      "type_id": 16
-    },
-    {
-      "pokemon_id": 373,
-      "type_id": 16
-    },
-    {
-      "pokemon_id": 373,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 374,
-      "type_id": 9
-    },
-    {
-      "pokemon_id": 374,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 375,
-      "type_id": 9
-    },
-    {
-      "pokemon_id": 375,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 376,
-      "type_id": 9
-    },
-    {
-      "pokemon_id": 376,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 377,
-      "type_id": 6
-    },
-    {
-      "pokemon_id": 378,
-      "type_id": 15
-    },
-    {
-      "pokemon_id": 379,
-      "type_id": 9
-    },
-    {
-      "pokemon_id": 380,
-      "type_id": 16
-    },
-    {
-      "pokemon_id": 380,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 381,
-      "type_id": 16
-    },
-    {
-      "pokemon_id": 381,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 382,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 383,
-      "type_id": 5
-    },
-    {
-      "pokemon_id": 384,
-      "type_id": 16
-    },
-    {
-      "pokemon_id": 384,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 385,
-      "type_id": 9
-    },
-    {
-      "pokemon_id": 385,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 386,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 387,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 388,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 389,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 389,
-      "type_id": 5
-    },
-    {
-      "pokemon_id": 390,
-      "type_id": 10
-    },
-    {
-      "pokemon_id": 391,
-      "type_id": 10
-    },
-    {
-      "pokemon_id": 391,
-      "type_id": 2
-    },
-    {
-      "pokemon_id": 392,
-      "type_id": 10
-    },
-    {
-      "pokemon_id": 392,
-      "type_id": 2
-    },
-    {
-      "pokemon_id": 393,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 394,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 395,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 395,
-      "type_id": 9
-    },
-    {
-      "pokemon_id": 396,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 396,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 397,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 397,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 398,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 398,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 399,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 400,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 400,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 401,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 402,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 403,
-      "type_id": 13
-    },
-    {
-      "pokemon_id": 404,
-      "type_id": 13
-    },
-    {
-      "pokemon_id": 405,
-      "type_id": 13
-    },
-    {
-      "pokemon_id": 406,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 406,
-      "type_id": 4
-    },
-    {
-      "pokemon_id": 407,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 407,
-      "type_id": 4
-    },
-    {
-      "pokemon_id": 408,
-      "type_id": 6
-    },
-    {
-      "pokemon_id": 409,
-      "type_id": 6
-    },
-    {
-      "pokemon_id": 410,
-      "type_id": 6
-    },
-    {
-      "pokemon_id": 410,
-      "type_id": 9
-    },
-    {
-      "pokemon_id": 411,
-      "type_id": 6
-    },
-    {
-      "pokemon_id": 411,
-      "type_id": 9
-    },
-    {
-      "pokemon_id": 412,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 413,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 413,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 414,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 414,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 415,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 415,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 416,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 416,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 417,
-      "type_id": 13
-    },
-    {
-      "pokemon_id": 418,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 419,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 420,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 421,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 422,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 423,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 423,
-      "type_id": 5
-    },
-    {
-      "pokemon_id": 424,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 425,
-      "type_id": 8
-    },
-    {
-      "pokemon_id": 425,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 426,
-      "type_id": 8
-    },
-    {
-      "pokemon_id": 426,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 427,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 428,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 429,
-      "type_id": 8
-    },
-    {
-      "pokemon_id": 430,
-      "type_id": 17
-    },
-    {
-      "pokemon_id": 430,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 431,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 432,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 433,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 434,
-      "type_id": 4
-    },
-    {
-      "pokemon_id": 434,
-      "type_id": 17
-    },
-    {
-      "pokemon_id": 435,
-      "type_id": 4
-    },
-    {
-      "pokemon_id": 435,
-      "type_id": 17
-    },
-    {
-      "pokemon_id": 436,
-      "type_id": 9
-    },
-    {
-      "pokemon_id": 436,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 437,
-      "type_id": 9
-    },
-    {
-      "pokemon_id": 437,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 438,
-      "type_id": 6
-    },
-    {
-      "pokemon_id": 439,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 439,
-      "type_id": 18
-    },
-    {
-      "pokemon_id": 440,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 441,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 441,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 442,
-      "type_id": 8
-    },
-    {
-      "pokemon_id": 442,
-      "type_id": 17
-    },
-    {
-      "pokemon_id": 443,
-      "type_id": 16
-    },
-    {
-      "pokemon_id": 443,
-      "type_id": 5
-    },
-    {
-      "pokemon_id": 444,
-      "type_id": 16
-    },
-    {
-      "pokemon_id": 444,
-      "type_id": 5
-    },
-    {
-      "pokemon_id": 445,
-      "type_id": 16
-    },
-    {
-      "pokemon_id": 445,
-      "type_id": 5
-    },
-    {
-      "pokemon_id": 446,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 447,
-      "type_id": 2
-    },
-    {
-      "pokemon_id": 448,
-      "type_id": 2
-    },
-    {
-      "pokemon_id": 448,
-      "type_id": 9
-    },
-    {
-      "pokemon_id": 449,
-      "type_id": 5
-    },
-    {
-      "pokemon_id": 450,
-      "type_id": 5
-    },
-    {
-      "pokemon_id": 451,
-      "type_id": 4
-    },
-    {
-      "pokemon_id": 451,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 452,
-      "type_id": 4
-    },
-    {
-      "pokemon_id": 452,
-      "type_id": 17
-    },
-    {
-      "pokemon_id": 453,
-      "type_id": 4
-    },
-    {
-      "pokemon_id": 453,
-      "type_id": 2
-    },
-    {
-      "pokemon_id": 454,
-      "type_id": 4
-    },
-    {
-      "pokemon_id": 454,
-      "type_id": 2
-    },
-    {
-      "pokemon_id": 455,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 456,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 457,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 458,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 458,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 459,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 459,
-      "type_id": 15
-    },
-    {
-      "pokemon_id": 460,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 460,
-      "type_id": 15
-    },
-    {
-      "pokemon_id": 461,
-      "type_id": 17
-    },
-    {
-      "pokemon_id": 461,
-      "type_id": 15
-    },
-    {
-      "pokemon_id": 462,
-      "type_id": 13
-    },
-    {
-      "pokemon_id": 462,
-      "type_id": 9
-    },
-    {
-      "pokemon_id": 463,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 464,
-      "type_id": 5
-    },
-    {
-      "pokemon_id": 464,
-      "type_id": 6
-    },
-    {
-      "pokemon_id": 465,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 466,
-      "type_id": 13
-    },
-    {
-      "pokemon_id": 467,
-      "type_id": 10
-    },
-    {
-      "pokemon_id": 468,
-      "type_id": 18
-    },
-    {
-      "pokemon_id": 468,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 469,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 469,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 470,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 471,
-      "type_id": 15
-    },
-    {
-      "pokemon_id": 472,
-      "type_id": 5
-    },
-    {
-      "pokemon_id": 472,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 473,
-      "type_id": 15
-    },
-    {
-      "pokemon_id": 473,
-      "type_id": 5
-    },
-    {
-      "pokemon_id": 474,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 475,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 475,
-      "type_id": 2
-    },
-    {
-      "pokemon_id": 476,
-      "type_id": 6
-    },
-    {
-      "pokemon_id": 476,
-      "type_id": 9
-    },
-    {
-      "pokemon_id": 477,
-      "type_id": 8
-    },
-    {
-      "pokemon_id": 478,
-      "type_id": 15
-    },
-    {
-      "pokemon_id": 478,
-      "type_id": 8
-    },
-    {
-      "pokemon_id": 479,
-      "type_id": 13
-    },
-    {
-      "pokemon_id": 479,
-      "type_id": 8
-    },
-    {
-      "pokemon_id": 480,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 481,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 482,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 483,
-      "type_id": 9
-    },
-    {
-      "pokemon_id": 483,
-      "type_id": 16
-    },
-    {
-      "pokemon_id": 484,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 484,
-      "type_id": 16
-    },
-    {
-      "pokemon_id": 485,
-      "type_id": 10
-    },
-    {
-      "pokemon_id": 485,
-      "type_id": 9
-    },
-    {
-      "pokemon_id": 486,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 487,
-      "type_id": 8
-    },
-    {
-      "pokemon_id": 487,
-      "type_id": 16
-    },
-    {
-      "pokemon_id": 488,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 489,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 490,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 491,
-      "type_id": 17
-    },
-    {
-      "pokemon_id": 492,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 493,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 494,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 494,
-      "type_id": 10
-    },
-    {
-      "pokemon_id": 495,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 496,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 497,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 498,
-      "type_id": 10
-    },
-    {
-      "pokemon_id": 499,
-      "type_id": 10
-    },
-    {
-      "pokemon_id": 499,
-      "type_id": 2
-    },
-    {
-      "pokemon_id": 500,
-      "type_id": 10
-    },
-    {
-      "pokemon_id": 500,
-      "type_id": 2
-    },
-    {
-      "pokemon_id": 501,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 502,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 503,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 504,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 505,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 506,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 507,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 508,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 509,
-      "type_id": 17
-    },
-    {
-      "pokemon_id": 510,
-      "type_id": 17
-    },
-    {
-      "pokemon_id": 511,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 512,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 513,
-      "type_id": 10
-    },
-    {
-      "pokemon_id": 514,
-      "type_id": 10
-    },
-    {
-      "pokemon_id": 515,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 516,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 517,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 518,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 519,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 519,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 520,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 520,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 521,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 521,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 522,
-      "type_id": 13
-    },
-    {
-      "pokemon_id": 523,
-      "type_id": 13
-    },
-    {
-      "pokemon_id": 524,
-      "type_id": 6
-    },
-    {
-      "pokemon_id": 525,
-      "type_id": 6
-    },
-    {
-      "pokemon_id": 526,
-      "type_id": 6
-    },
-    {
-      "pokemon_id": 527,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 527,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 528,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 528,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 529,
-      "type_id": 5
-    },
-    {
-      "pokemon_id": 530,
-      "type_id": 5
-    },
-    {
-      "pokemon_id": 530,
-      "type_id": 9
-    },
-    {
-      "pokemon_id": 531,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 532,
-      "type_id": 2
-    },
-    {
-      "pokemon_id": 533,
-      "type_id": 2
-    },
-    {
-      "pokemon_id": 534,
-      "type_id": 2
-    },
-    {
-      "pokemon_id": 535,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 536,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 536,
-      "type_id": 5
-    },
-    {
-      "pokemon_id": 537,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 537,
-      "type_id": 5
-    },
-    {
-      "pokemon_id": 538,
-      "type_id": 2
-    },
-    {
-      "pokemon_id": 539,
-      "type_id": 2
-    },
-    {
-      "pokemon_id": 540,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 540,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 541,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 541,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 542,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 542,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 543,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 543,
-      "type_id": 4
-    },
-    {
-      "pokemon_id": 544,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 544,
-      "type_id": 4
-    },
-    {
-      "pokemon_id": 545,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 545,
-      "type_id": 4
-    },
-    {
-      "pokemon_id": 546,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 546,
-      "type_id": 18
-    },
-    {
-      "pokemon_id": 547,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 547,
-      "type_id": 18
-    },
-    {
-      "pokemon_id": 548,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 549,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 550,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 551,
-      "type_id": 5
-    },
-    {
-      "pokemon_id": 551,
-      "type_id": 17
-    },
-    {
-      "pokemon_id": 552,
-      "type_id": 5
-    },
-    {
-      "pokemon_id": 552,
-      "type_id": 17
-    },
-    {
-      "pokemon_id": 553,
-      "type_id": 5
-    },
-    {
-      "pokemon_id": 553,
-      "type_id": 17
-    },
-    {
-      "pokemon_id": 554,
-      "type_id": 10
-    },
-    {
-      "pokemon_id": 555,
-      "type_id": 10
-    },
-    {
-      "pokemon_id": 556,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 557,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 557,
-      "type_id": 6
-    },
-    {
-      "pokemon_id": 558,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 558,
-      "type_id": 6
-    },
-    {
-      "pokemon_id": 559,
-      "type_id": 17
-    },
-    {
-      "pokemon_id": 559,
-      "type_id": 2
-    },
-    {
-      "pokemon_id": 560,
-      "type_id": 17
-    },
-    {
-      "pokemon_id": 560,
-      "type_id": 2
-    },
-    {
-      "pokemon_id": 561,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 561,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 562,
-      "type_id": 8
-    },
-    {
-      "pokemon_id": 563,
-      "type_id": 8
-    },
-    {
-      "pokemon_id": 564,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 564,
-      "type_id": 6
-    },
-    {
-      "pokemon_id": 565,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 565,
-      "type_id": 6
-    },
-    {
-      "pokemon_id": 566,
-      "type_id": 6
-    },
-    {
-      "pokemon_id": 566,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 567,
-      "type_id": 6
-    },
-    {
-      "pokemon_id": 567,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 568,
-      "type_id": 4
-    },
-    {
-      "pokemon_id": 569,
-      "type_id": 4
-    },
-    {
-      "pokemon_id": 570,
-      "type_id": 17
-    },
-    {
-      "pokemon_id": 571,
-      "type_id": 17
-    },
-    {
-      "pokemon_id": 572,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 573,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 574,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 575,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 576,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 577,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 578,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 579,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 580,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 580,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 581,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 581,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 582,
-      "type_id": 15
-    },
-    {
-      "pokemon_id": 583,
-      "type_id": 15
-    },
-    {
-      "pokemon_id": 584,
-      "type_id": 15
-    },
-    {
-      "pokemon_id": 585,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 585,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 586,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 586,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 587,
-      "type_id": 13
-    },
-    {
-      "pokemon_id": 587,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 588,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 589,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 589,
-      "type_id": 9
-    },
-    {
-      "pokemon_id": 590,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 590,
-      "type_id": 4
-    },
-    {
-      "pokemon_id": 591,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 591,
-      "type_id": 4
-    },
-    {
-      "pokemon_id": 592,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 592,
-      "type_id": 8
-    },
-    {
-      "pokemon_id": 593,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 593,
-      "type_id": 8
-    },
-    {
-      "pokemon_id": 594,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 595,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 595,
-      "type_id": 13
-    },
-    {
-      "pokemon_id": 596,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 596,
-      "type_id": 13
-    },
-    {
-      "pokemon_id": 597,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 597,
-      "type_id": 9
-    },
-    {
-      "pokemon_id": 598,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 598,
-      "type_id": 9
-    },
-    {
-      "pokemon_id": 599,
-      "type_id": 9
-    },
-    {
-      "pokemon_id": 600,
-      "type_id": 9
-    },
-    {
-      "pokemon_id": 601,
-      "type_id": 9
-    },
-    {
-      "pokemon_id": 602,
-      "type_id": 13
-    },
-    {
-      "pokemon_id": 603,
-      "type_id": 13
-    },
-    {
-      "pokemon_id": 604,
-      "type_id": 13
-    },
-    {
-      "pokemon_id": 605,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 606,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 607,
-      "type_id": 8
-    },
-    {
-      "pokemon_id": 607,
-      "type_id": 10
-    },
-    {
-      "pokemon_id": 608,
-      "type_id": 8
-    },
-    {
-      "pokemon_id": 608,
-      "type_id": 10
-    },
-    {
-      "pokemon_id": 609,
-      "type_id": 8
-    },
-    {
-      "pokemon_id": 609,
-      "type_id": 10
-    },
-    {
-      "pokemon_id": 610,
-      "type_id": 16
-    },
-    {
-      "pokemon_id": 611,
-      "type_id": 16
-    },
-    {
-      "pokemon_id": 612,
-      "type_id": 16
-    },
-    {
-      "pokemon_id": 613,
-      "type_id": 15
-    },
-    {
-      "pokemon_id": 614,
-      "type_id": 15
-    },
-    {
-      "pokemon_id": 615,
-      "type_id": 15
-    },
-    {
-      "pokemon_id": 616,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 617,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 618,
-      "type_id": 5
-    },
-    {
-      "pokemon_id": 618,
-      "type_id": 13
-    },
-    {
-      "pokemon_id": 619,
-      "type_id": 2
-    },
-    {
-      "pokemon_id": 620,
-      "type_id": 2
-    },
-    {
-      "pokemon_id": 621,
-      "type_id": 16
-    },
-    {
-      "pokemon_id": 622,
-      "type_id": 5
-    },
-    {
-      "pokemon_id": 622,
-      "type_id": 8
-    },
-    {
-      "pokemon_id": 623,
-      "type_id": 5
-    },
-    {
-      "pokemon_id": 623,
-      "type_id": 8
-    },
-    {
-      "pokemon_id": 624,
-      "type_id": 17
-    },
-    {
-      "pokemon_id": 624,
-      "type_id": 9
-    },
-    {
-      "pokemon_id": 625,
-      "type_id": 17
-    },
-    {
-      "pokemon_id": 625,
-      "type_id": 9
-    },
-    {
-      "pokemon_id": 626,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 627,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 627,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 628,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 628,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 629,
-      "type_id": 17
-    },
-    {
-      "pokemon_id": 629,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 630,
-      "type_id": 17
-    },
-    {
-      "pokemon_id": 630,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 631,
-      "type_id": 10
-    },
-    {
-      "pokemon_id": 632,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 632,
-      "type_id": 9
-    },
-    {
-      "pokemon_id": 633,
-      "type_id": 17
-    },
-    {
-      "pokemon_id": 633,
-      "type_id": 16
-    },
-    {
-      "pokemon_id": 634,
-      "type_id": 17
-    },
-    {
-      "pokemon_id": 634,
-      "type_id": 16
-    },
-    {
-      "pokemon_id": 635,
-      "type_id": 17
-    },
-    {
-      "pokemon_id": 635,
-      "type_id": 16
-    },
-    {
-      "pokemon_id": 636,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 636,
-      "type_id": 10
-    },
-    {
-      "pokemon_id": 637,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 637,
-      "type_id": 10
-    },
-    {
-      "pokemon_id": 638,
-      "type_id": 9
-    },
-    {
-      "pokemon_id": 638,
-      "type_id": 2
-    },
-    {
-      "pokemon_id": 639,
-      "type_id": 6
-    },
-    {
-      "pokemon_id": 639,
-      "type_id": 2
-    },
-    {
-      "pokemon_id": 640,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 640,
-      "type_id": 2
-    },
-    {
-      "pokemon_id": 641,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 642,
-      "type_id": 13
-    },
-    {
-      "pokemon_id": 642,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 643,
-      "type_id": 16
-    },
-    {
-      "pokemon_id": 643,
-      "type_id": 10
-    },
-    {
-      "pokemon_id": 644,
-      "type_id": 16
-    },
-    {
-      "pokemon_id": 644,
-      "type_id": 13
-    },
-    {
-      "pokemon_id": 645,
-      "type_id": 5
-    },
-    {
-      "pokemon_id": 645,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 646,
-      "type_id": 16
-    },
-    {
-      "pokemon_id": 646,
-      "type_id": 15
-    },
-    {
-      "pokemon_id": 647,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 647,
-      "type_id": 2
-    },
-    {
-      "pokemon_id": 648,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 648,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 649,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 649,
-      "type_id": 9
-    },
-    {
-      "pokemon_id": 650,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 651,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 652,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 652,
-      "type_id": 2
-    },
-    {
-      "pokemon_id": 653,
-      "type_id": 10
-    },
-    {
-      "pokemon_id": 654,
-      "type_id": 10
-    },
-    {
-      "pokemon_id": 655,
-      "type_id": 10
-    },
-    {
-      "pokemon_id": 655,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 656,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 657,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 658,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 658,
-      "type_id": 17
-    },
-    {
-      "pokemon_id": 659,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 660,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 660,
-      "type_id": 5
-    },
-    {
-      "pokemon_id": 661,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 661,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 662,
-      "type_id": 10
-    },
-    {
-      "pokemon_id": 662,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 663,
-      "type_id": 10
-    },
-    {
-      "pokemon_id": 663,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 664,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 665,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 666,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 666,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 667,
-      "type_id": 10
-    },
-    {
-      "pokemon_id": 667,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 668,
-      "type_id": 10
-    },
-    {
-      "pokemon_id": 668,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 669,
-      "type_id": 18
-    },
-    {
-      "pokemon_id": 670,
-      "type_id": 18
-    },
-    {
-      "pokemon_id": 671,
-      "type_id": 18
-    },
-    {
-      "pokemon_id": 672,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 673,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 674,
-      "type_id": 2
-    },
-    {
-      "pokemon_id": 675,
-      "type_id": 2
-    },
-    {
-      "pokemon_id": 675,
-      "type_id": 17
-    },
-    {
-      "pokemon_id": 676,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 677,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 678,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 679,
-      "type_id": 9
-    },
-    {
-      "pokemon_id": 679,
-      "type_id": 8
-    },
-    {
-      "pokemon_id": 680,
-      "type_id": 9
-    },
-    {
-      "pokemon_id": 680,
-      "type_id": 8
-    },
-    {
-      "pokemon_id": 681,
-      "type_id": 9
-    },
-    {
-      "pokemon_id": 681,
-      "type_id": 8
-    },
-    {
-      "pokemon_id": 682,
-      "type_id": 18
-    },
-    {
-      "pokemon_id": 683,
-      "type_id": 18
-    },
-    {
-      "pokemon_id": 684,
-      "type_id": 18
-    },
-    {
-      "pokemon_id": 685,
-      "type_id": 18
-    },
-    {
-      "pokemon_id": 686,
-      "type_id": 17
-    },
-    {
-      "pokemon_id": 686,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 687,
-      "type_id": 17
-    },
-    {
-      "pokemon_id": 687,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 688,
-      "type_id": 6
-    },
-    {
-      "pokemon_id": 688,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 689,
-      "type_id": 6
-    },
-    {
-      "pokemon_id": 689,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 690,
-      "type_id": 4
-    },
-    {
-      "pokemon_id": 690,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 691,
-      "type_id": 4
-    },
-    {
-      "pokemon_id": 691,
-      "type_id": 16
-    },
-    {
-      "pokemon_id": 692,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 693,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 694,
-      "type_id": 13
-    },
-    {
-      "pokemon_id": 694,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 695,
-      "type_id": 13
-    },
-    {
-      "pokemon_id": 695,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 696,
-      "type_id": 6
-    },
-    {
-      "pokemon_id": 696,
-      "type_id": 16
-    },
-    {
-      "pokemon_id": 697,
-      "type_id": 6
-    },
-    {
-      "pokemon_id": 697,
-      "type_id": 16
-    },
-    {
-      "pokemon_id": 698,
-      "type_id": 6
-    },
-    {
-      "pokemon_id": 698,
-      "type_id": 15
-    },
-    {
-      "pokemon_id": 699,
-      "type_id": 6
-    },
-    {
-      "pokemon_id": 699,
-      "type_id": 15
-    },
-    {
-      "pokemon_id": 700,
-      "type_id": 18
-    },
-    {
-      "pokemon_id": 701,
-      "type_id": 2
-    },
-    {
-      "pokemon_id": 701,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 702,
-      "type_id": 13
-    },
-    {
-      "pokemon_id": 702,
-      "type_id": 18
-    },
-    {
-      "pokemon_id": 703,
-      "type_id": 6
-    },
-    {
-      "pokemon_id": 703,
-      "type_id": 18
-    },
-    {
-      "pokemon_id": 704,
-      "type_id": 16
-    },
-    {
-      "pokemon_id": 705,
-      "type_id": 16
-    },
-    {
-      "pokemon_id": 706,
-      "type_id": 16
-    },
-    {
-      "pokemon_id": 707,
-      "type_id": 9
-    },
-    {
-      "pokemon_id": 707,
-      "type_id": 18
-    },
-    {
-      "pokemon_id": 708,
-      "type_id": 8
-    },
-    {
-      "pokemon_id": 708,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 709,
-      "type_id": 8
-    },
-    {
-      "pokemon_id": 709,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 710,
-      "type_id": 8
-    },
-    {
-      "pokemon_id": 710,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 711,
-      "type_id": 8
-    },
-    {
-      "pokemon_id": 711,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 712,
-      "type_id": 15
-    },
-    {
-      "pokemon_id": 713,
-      "type_id": 15
-    },
-    {
-      "pokemon_id": 714,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 714,
-      "type_id": 16
-    },
-    {
-      "pokemon_id": 715,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 715,
-      "type_id": 16
-    },
-    {
-      "pokemon_id": 716,
-      "type_id": 18
-    },
-    {
-      "pokemon_id": 717,
-      "type_id": 17
-    },
-    {
-      "pokemon_id": 717,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 718,
-      "type_id": 16
-    },
-    {
-      "pokemon_id": 718,
-      "type_id": 5
-    },
-    {
-      "pokemon_id": 719,
-      "type_id": 6
-    },
-    {
-      "pokemon_id": 719,
-      "type_id": 18
-    },
-    {
-      "pokemon_id": 720,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 720,
-      "type_id": 8
-    },
-    {
-      "pokemon_id": 721,
-      "type_id": 10
-    },
-    {
-      "pokemon_id": 721,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 10001,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 10002,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 10003,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 10004,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 10004,
-      "type_id": 5
-    },
-    {
-      "pokemon_id": 10005,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 10005,
-      "type_id": 9
-    },
-    {
-      "pokemon_id": 10006,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 10006,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 10007,
-      "type_id": 8
-    },
-    {
-      "pokemon_id": 10007,
-      "type_id": 16
-    },
-    {
-      "pokemon_id": 10008,
-      "type_id": 13
-    },
-    {
-      "pokemon_id": 10008,
-      "type_id": 10
-    },
-    {
-      "pokemon_id": 10009,
-      "type_id": 13
-    },
-    {
-      "pokemon_id": 10009,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 10010,
-      "type_id": 13
-    },
-    {
-      "pokemon_id": 10010,
-      "type_id": 15
-    },
-    {
-      "pokemon_id": 10011,
-      "type_id": 13
-    },
-    {
-      "pokemon_id": 10011,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 10012,
-      "type_id": 13
-    },
-    {
-      "pokemon_id": 10012,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 10013,
-      "type_id": 10
-    },
-    {
-      "pokemon_id": 10014,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 10015,
-      "type_id": 15
-    },
-    {
-      "pokemon_id": 10016,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 10017,
-      "type_id": 10
-    },
-    {
-      "pokemon_id": 10017,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 10018,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 10018,
-      "type_id": 2
-    },
-    {
-      "pokemon_id": 10019,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 10020,
-      "type_id": 13
-    },
-    {
-      "pokemon_id": 10020,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 10021,
-      "type_id": 5
-    },
-    {
-      "pokemon_id": 10021,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 10022,
-      "type_id": 16
-    },
-    {
-      "pokemon_id": 10022,
-      "type_id": 15
-    },
-    {
-      "pokemon_id": 10023,
-      "type_id": 16
-    },
-    {
-      "pokemon_id": 10023,
-      "type_id": 15
-    },
-    {
-      "pokemon_id": 10024,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 10024,
-      "type_id": 2
-    },
-    {
-      "pokemon_id": 10025,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 10026,
-      "type_id": 9
-    },
-    {
-      "pokemon_id": 10026,
-      "type_id": 8
-    },
-    {
-      "pokemon_id": 10027,
-      "type_id": 8
-    },
-    {
-      "pokemon_id": 10027,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 10028,
-      "type_id": 8
-    },
-    {
-      "pokemon_id": 10028,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 10029,
-      "type_id": 8
-    },
-    {
-      "pokemon_id": 10029,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 10030,
-      "type_id": 8
-    },
-    {
-      "pokemon_id": 10030,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 10031,
-      "type_id": 8
-    },
-    {
-      "pokemon_id": 10031,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 10032,
-      "type_id": 8
-    },
-    {
-      "pokemon_id": 10032,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 10033,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 10033,
-      "type_id": 4
-    },
-    {
-      "pokemon_id": 10034,
-      "type_id": 10
-    },
-    {
-      "pokemon_id": 10034,
-      "type_id": 16
-    },
-    {
-      "pokemon_id": 10035,
-      "type_id": 10
-    },
-    {
-      "pokemon_id": 10035,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 10036,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 10037,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 10038,
-      "type_id": 8
-    },
-    {
-      "pokemon_id": 10038,
-      "type_id": 4
-    },
-    {
-      "pokemon_id": 10039,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 10040,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 10040,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 10041,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 10041,
-      "type_id": 17
-    },
-    {
-      "pokemon_id": 10042,
-      "type_id": 6
-    },
-    {
-      "pokemon_id": 10042,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 10043,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 10043,
-      "type_id": 2
-    },
-    {
-      "pokemon_id": 10044,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 10045,
-      "type_id": 13
-    },
-    {
-      "pokemon_id": 10045,
-      "type_id": 16
-    },
-    {
-      "pokemon_id": 10046,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 10046,
-      "type_id": 9
-    },
-    {
-      "pokemon_id": 10047,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 10047,
-      "type_id": 2
-    },
-    {
-      "pokemon_id": 10048,
-      "type_id": 17
-    },
-    {
-      "pokemon_id": 10048,
-      "type_id": 10
-    },
-    {
-      "pokemon_id": 10049,
-      "type_id": 6
-    },
-    {
-      "pokemon_id": 10049,
-      "type_id": 17
-    },
-    {
-      "pokemon_id": 10050,
-      "type_id": 10
-    },
-    {
-      "pokemon_id": 10050,
-      "type_id": 2
-    },
-    {
-      "pokemon_id": 10051,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 10051,
-      "type_id": 18
-    },
-    {
-      "pokemon_id": 10052,
-      "type_id": 9
-    },
-    {
-      "pokemon_id": 10052,
-      "type_id": 18
-    },
-    {
-      "pokemon_id": 10053,
-      "type_id": 9
-    },
-    {
-      "pokemon_id": 10054,
-      "type_id": 2
-    },
-    {
-      "pokemon_id": 10054,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 10055,
-      "type_id": 13
-    },
-    {
-      "pokemon_id": 10056,
-      "type_id": 8
-    },
-    {
-      "pokemon_id": 10057,
-      "type_id": 17
-    },
-    {
-      "pokemon_id": 10058,
-      "type_id": 16
-    },
-    {
-      "pokemon_id": 10058,
-      "type_id": 5
-    },
-    {
-      "pokemon_id": 10059,
-      "type_id": 2
-    },
-    {
-      "pokemon_id": 10059,
-      "type_id": 9
-    },
-    {
-      "pokemon_id": 10060,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 10060,
-      "type_id": 15
-    },
-    {
-      "pokemon_id": 10061,
-      "type_id": 18
-    },
-    {
-      "pokemon_id": 10062,
-      "type_id": 16
-    },
-    {
-      "pokemon_id": 10062,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 10063,
-      "type_id": 16
-    },
-    {
-      "pokemon_id": 10063,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 10064,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 10064,
-      "type_id": 5
-    },
-    {
-      "pokemon_id": 10065,
-      "type_id": 12
-    },
-    {
-      "pokemon_id": 10065,
-      "type_id": 16
-    },
-    {
-      "pokemon_id": 10066,
-      "type_id": 17
-    },
-    {
-      "pokemon_id": 10066,
-      "type_id": 8
-    },
-    {
-      "pokemon_id": 10067,
-      "type_id": 16
-    },
-    {
-      "pokemon_id": 10067,
-      "type_id": 18
-    },
-    {
-      "pokemon_id": 10068,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 10068,
-      "type_id": 2
-    },
-    {
-      "pokemon_id": 10069,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 10069,
-      "type_id": 18
-    },
-    {
-      "pokemon_id": 10070,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 10070,
-      "type_id": 17
-    },
-    {
-      "pokemon_id": 10071,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 10071,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 10072,
-      "type_id": 9
-    },
-    {
-      "pokemon_id": 10072,
-      "type_id": 5
-    },
-    {
-      "pokemon_id": 10073,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 10073,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 10074,
-      "type_id": 15
-    },
-    {
-      "pokemon_id": 10075,
-      "type_id": 6
-    },
-    {
-      "pokemon_id": 10075,
-      "type_id": 18
-    },
-    {
-      "pokemon_id": 10076,
-      "type_id": 9
-    },
-    {
-      "pokemon_id": 10076,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 10077,
-      "type_id": 11
-    },
-    {
-      "pokemon_id": 10078,
-      "type_id": 5
-    },
-    {
-      "pokemon_id": 10078,
-      "type_id": 10
-    },
-    {
-      "pokemon_id": 10079,
-      "type_id": 16
-    },
-    {
-      "pokemon_id": 10079,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 10080,
-      "type_id": 13
-    },
-    {
-      "pokemon_id": 10081,
-      "type_id": 13
-    },
-    {
-      "pokemon_id": 10082,
-      "type_id": 13
-    },
-    {
-      "pokemon_id": 10083,
-      "type_id": 13
-    },
-    {
-      "pokemon_id": 10084,
-      "type_id": 13
-    },
-    {
-      "pokemon_id": 10085,
-      "type_id": 13
-    },
-    {
-      "pokemon_id": 10086,
-      "type_id": 14
-    },
-    {
-      "pokemon_id": 10086,
-      "type_id": 17
-    },
-    {
-      "pokemon_id": 10087,
-      "type_id": 10
-    },
-    {
-      "pokemon_id": 10087,
-      "type_id": 5
-    },
-    {
-      "pokemon_id": 10088,
-      "type_id": 1
-    },
-    {
-      "pokemon_id": 10088,
-      "type_id": 2
-    },
-    {
-      "pokemon_id": 10089,
-      "type_id": 16
-    },
-    {
-      "pokemon_id": 10089,
-      "type_id": 3
-    },
-    {
-      "pokemon_id": 10090,
-      "type_id": 7
-    },
-    {
-      "pokemon_id": 10090,
-      "type_id": 4
-    }
-  ],
-  "CombatType":[
-    {
-      "pokemon_id": 1,
-      "identifier": "normal",
-      "generation_id": 1
-    },
-    {
-      "pokemon_id": 2,
-      "identifier": "fighting",
-      "generation_id": 1
-    },
-    {
-      "pokemon_id": 3,
-      "identifier": "flying",
-      "generation_id": 1
-    },
-    {
-      "pokemon_id": 4,
-      "identifier": "poison",
-      "generation_id": 1
-    },
-    {
-      "pokemon_id": 5,
-      "identifier": "ground",
-      "generation_id": 1
-    },
-    {
-      "pokemon_id": 6,
-      "identifier": "rock",
-      "generation_id": 1
-    },
-    {
-      "pokemon_id": 7,
-      "identifier": "bug",
-      "generation_id": 1
-    },
-    {
-      "pokemon_id": 8,
-      "identifier": "ghost",
-      "generation_id": 1
-    },
-    {
-      "pokemon_id": 9,
-      "identifier": "steel",
-      "generation_id": 2
-    },
-    {
-      "pokemon_id": 10,
-      "identifier": "fire",
-      "generation_id": 1
-    },
-    {
-      "pokemon_id": 11,
-      "identifier": "water",
-      "generation_id": 1
-    },
-    {
-      "pokemon_id": 12,
       "identifier": "grass",
       "generation_id": 1
     },
     {
+      "pokemon_id": 1,
+      "identifier": "poison",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 2,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 2,
+      "identifier": "poison",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 3,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 3,
+      "identifier": "poison",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 4,
+      "identifier": "fire",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 5,
+      "identifier": "fire",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 6,
+      "identifier": "fire",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 6,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 7,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 8,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 9,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10,
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 11,
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 12,
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 12,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
       "pokemon_id": 13,
-      "identifier": "electric",
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 13,
+      "identifier": "poison",
       "generation_id": 1
     },
     {
       "pokemon_id": 14,
-      "identifier": "psychic",
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 14,
+      "identifier": "poison",
       "generation_id": 1
     },
     {
       "pokemon_id": 15,
-      "identifier": "ice",
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 15,
+      "identifier": "poison",
       "generation_id": 1
     },
     {
       "pokemon_id": 16,
-      "identifier": "dragon",
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 16,
+      "identifier": "flying",
       "generation_id": 1
     },
     {
       "pokemon_id": 17,
-      "identifier": "dark",
-      "generation_id": 2
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 17,
+      "identifier": "flying",
+      "generation_id": 1
     },
     {
       "pokemon_id": 18,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 18,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 19,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 20,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 21,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 21,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 22,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 22,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 23,
+      "identifier": "poison",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 24,
+      "identifier": "poison",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 25,
+      "identifier": "electric",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 26,
+      "identifier": "electric",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 27,
+      "identifier": "ground",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 28,
+      "identifier": "ground",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 29,
+      "identifier": "poison",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 30,
+      "identifier": "poison",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 31,
+      "identifier": "poison",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 31,
+      "identifier": "ground",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 32,
+      "identifier": "poison",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 33,
+      "identifier": "poison",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 34,
+      "identifier": "poison",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 34,
+      "identifier": "ground",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 35,
       "identifier": "fairy",
       "generation_id": 6
     },
     {
-      "pokemon_id": 10001,
-      "identifier": "unknown",
+      "pokemon_id": 36,
+      "identifier": "fairy",
+      "generation_id": 6
+    },
+    {
+      "pokemon_id": 37,
+      "identifier": "fire",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 38,
+      "identifier": "fire",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 39,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 39,
+      "identifier": "fairy",
+      "generation_id": 6
+    },
+    {
+      "pokemon_id": 40,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 40,
+      "identifier": "fairy",
+      "generation_id": 6
+    },
+    {
+      "pokemon_id": 41,
+      "identifier": "poison",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 41,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 42,
+      "identifier": "poison",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 42,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 43,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 43,
+      "identifier": "poison",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 44,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 44,
+      "identifier": "poison",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 45,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 45,
+      "identifier": "poison",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 46,
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 46,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 47,
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 47,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 48,
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 48,
+      "identifier": "poison",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 49,
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 49,
+      "identifier": "poison",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 50,
+      "identifier": "ground",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 51,
+      "identifier": "ground",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 52,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 53,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 54,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 55,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 56,
+      "identifier": "fighting",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 57,
+      "identifier": "fighting",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 58,
+      "identifier": "fire",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 59,
+      "identifier": "fire",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 60,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 61,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 62,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 62,
+      "identifier": "fighting",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 63,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 64,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 65,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 66,
+      "identifier": "fighting",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 67,
+      "identifier": "fighting",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 68,
+      "identifier": "fighting",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 69,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 69,
+      "identifier": "poison",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 70,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 70,
+      "identifier": "poison",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 71,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 71,
+      "identifier": "poison",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 72,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 72,
+      "identifier": "poison",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 73,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 73,
+      "identifier": "poison",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 74,
+      "identifier": "rock",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 74,
+      "identifier": "ground",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 75,
+      "identifier": "rock",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 75,
+      "identifier": "ground",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 76,
+      "identifier": "rock",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 76,
+      "identifier": "ground",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 77,
+      "identifier": "fire",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 78,
+      "identifier": "fire",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 79,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 79,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 80,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 80,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 81,
+      "identifier": "electric",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 81,
+      "identifier": "steel",
       "generation_id": 2
     },
     {
+      "pokemon_id": 82,
+      "identifier": "electric",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 82,
+      "identifier": "steel",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 83,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 83,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 84,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 84,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 85,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 85,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 86,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 87,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 87,
+      "identifier": "ice",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 88,
+      "identifier": "poison",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 89,
+      "identifier": "poison",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 90,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 91,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 91,
+      "identifier": "ice",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 92,
+      "identifier": "ghost",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 92,
+      "identifier": "poison",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 93,
+      "identifier": "ghost",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 93,
+      "identifier": "poison",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 94,
+      "identifier": "ghost",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 94,
+      "identifier": "poison",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 95,
+      "identifier": "rock",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 95,
+      "identifier": "ground",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 96,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 97,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 98,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 99,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 100,
+      "identifier": "electric",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 101,
+      "identifier": "electric",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 102,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 102,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 103,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 103,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 104,
+      "identifier": "ground",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 105,
+      "identifier": "ground",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 106,
+      "identifier": "fighting",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 107,
+      "identifier": "fighting",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 108,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 109,
+      "identifier": "poison",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 110,
+      "identifier": "poison",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 111,
+      "identifier": "ground",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 111,
+      "identifier": "rock",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 112,
+      "identifier": "ground",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 112,
+      "identifier": "rock",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 113,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 114,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 115,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 116,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 117,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 118,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 119,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 120,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 121,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 121,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 122,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 122,
+      "identifier": "fairy",
+      "generation_id": 6
+    },
+    {
+      "pokemon_id": 123,
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 123,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 124,
+      "identifier": "ice",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 124,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 125,
+      "identifier": "electric",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 126,
+      "identifier": "fire",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 127,
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 128,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 129,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 130,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 130,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 131,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 131,
+      "identifier": "ice",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 132,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 133,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 134,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 135,
+      "identifier": "electric",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 136,
+      "identifier": "fire",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 137,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 138,
+      "identifier": "rock",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 138,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 139,
+      "identifier": "rock",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 139,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 140,
+      "identifier": "rock",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 140,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 141,
+      "identifier": "rock",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 141,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 142,
+      "identifier": "rock",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 142,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 143,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 144,
+      "identifier": "ice",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 144,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 145,
+      "identifier": "electric",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 145,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 146,
+      "identifier": "fire",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 146,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 147,
+      "identifier": "dragon",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 148,
+      "identifier": "dragon",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 149,
+      "identifier": "dragon",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 149,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 150,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 151,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 152,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 153,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 154,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 155,
+      "identifier": "fire",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 156,
+      "identifier": "fire",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 157,
+      "identifier": "fire",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 158,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 159,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 160,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 161,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 162,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 163,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 163,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 164,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 164,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 165,
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 165,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 166,
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 166,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 167,
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 167,
+      "identifier": "poison",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 168,
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 168,
+      "identifier": "poison",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 169,
+      "identifier": "poison",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 169,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 170,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 170,
+      "identifier": "electric",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 171,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 171,
+      "identifier": "electric",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 172,
+      "identifier": "electric",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 173,
+      "identifier": "fairy",
+      "generation_id": 6
+    },
+    {
+      "pokemon_id": 174,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 174,
+      "identifier": "fairy",
+      "generation_id": 6
+    },
+    {
+      "pokemon_id": 175,
+      "identifier": "fairy",
+      "generation_id": 6
+    },
+    {
+      "pokemon_id": 176,
+      "identifier": "fairy",
+      "generation_id": 6
+    },
+    {
+      "pokemon_id": 176,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 177,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 177,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 178,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 178,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 179,
+      "identifier": "electric",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 180,
+      "identifier": "electric",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 181,
+      "identifier": "electric",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 182,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 183,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 183,
+      "identifier": "fairy",
+      "generation_id": 6
+    },
+    {
+      "pokemon_id": 184,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 184,
+      "identifier": "fairy",
+      "generation_id": 6
+    },
+    {
+      "pokemon_id": 185,
+      "identifier": "rock",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 186,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 187,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 187,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 188,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 188,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 189,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 189,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 190,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 191,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 192,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 193,
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 193,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 194,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 194,
+      "identifier": "ground",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 195,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 195,
+      "identifier": "ground",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 196,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 197,
+      "identifier": "dark",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 198,
+      "identifier": "dark",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 198,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 199,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 199,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 200,
+      "identifier": "ghost",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 201,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 202,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 203,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 203,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 204,
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 205,
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 205,
+      "identifier": "steel",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 206,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 207,
+      "identifier": "ground",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 207,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 208,
+      "identifier": "steel",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 208,
+      "identifier": "ground",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 209,
+      "identifier": "fairy",
+      "generation_id": 6
+    },
+    {
+      "pokemon_id": 210,
+      "identifier": "fairy",
+      "generation_id": 6
+    },
+    {
+      "pokemon_id": 211,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 211,
+      "identifier": "poison",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 212,
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 212,
+      "identifier": "steel",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 213,
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 213,
+      "identifier": "rock",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 214,
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 214,
+      "identifier": "fighting",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 215,
+      "identifier": "dark",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 215,
+      "identifier": "ice",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 216,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 217,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 218,
+      "identifier": "fire",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 219,
+      "identifier": "fire",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 219,
+      "identifier": "rock",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 220,
+      "identifier": "ice",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 220,
+      "identifier": "ground",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 221,
+      "identifier": "ice",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 221,
+      "identifier": "ground",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 222,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 222,
+      "identifier": "rock",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 223,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 224,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 225,
+      "identifier": "ice",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 225,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 226,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 226,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 227,
+      "identifier": "steel",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 227,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 228,
+      "identifier": "dark",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 228,
+      "identifier": "fire",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 229,
+      "identifier": "dark",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 229,
+      "identifier": "fire",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 230,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 230,
+      "identifier": "dragon",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 231,
+      "identifier": "ground",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 232,
+      "identifier": "ground",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 233,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 234,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 235,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 236,
+      "identifier": "fighting",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 237,
+      "identifier": "fighting",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 238,
+      "identifier": "ice",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 238,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 239,
+      "identifier": "electric",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 240,
+      "identifier": "fire",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 241,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 242,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 243,
+      "identifier": "electric",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 244,
+      "identifier": "fire",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 245,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 246,
+      "identifier": "rock",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 246,
+      "identifier": "ground",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 247,
+      "identifier": "rock",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 247,
+      "identifier": "ground",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 248,
+      "identifier": "rock",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 248,
+      "identifier": "dark",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 249,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 249,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 250,
+      "identifier": "fire",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 250,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 251,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 251,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 252,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 253,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 254,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 255,
+      "identifier": "fire",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 256,
+      "identifier": "fire",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 256,
+      "identifier": "fighting",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 257,
+      "identifier": "fire",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 257,
+      "identifier": "fighting",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 258,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 259,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 259,
+      "identifier": "ground",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 260,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 260,
+      "identifier": "ground",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 261,
+      "identifier": "dark",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 262,
+      "identifier": "dark",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 263,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 264,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 265,
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 266,
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 267,
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 267,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 268,
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 269,
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 269,
+      "identifier": "poison",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 270,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 270,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 271,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 271,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 272,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 272,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 273,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 274,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 274,
+      "identifier": "dark",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 275,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 275,
+      "identifier": "dark",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 276,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 276,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 277,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 277,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 278,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 278,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 279,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 279,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 280,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 280,
+      "identifier": "fairy",
+      "generation_id": 6
+    },
+    {
+      "pokemon_id": 281,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 281,
+      "identifier": "fairy",
+      "generation_id": 6
+    },
+    {
+      "pokemon_id": 282,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 282,
+      "identifier": "fairy",
+      "generation_id": 6
+    },
+    {
+      "pokemon_id": 283,
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 283,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 284,
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 284,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 285,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 286,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 286,
+      "identifier": "fighting",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 287,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 288,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 289,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 290,
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 290,
+      "identifier": "ground",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 291,
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 291,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 292,
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 292,
+      "identifier": "ghost",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 293,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 294,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 295,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 296,
+      "identifier": "fighting",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 297,
+      "identifier": "fighting",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 298,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 298,
+      "identifier": "fairy",
+      "generation_id": 6
+    },
+    {
+      "pokemon_id": 299,
+      "identifier": "rock",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 300,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 301,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 302,
+      "identifier": "dark",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 302,
+      "identifier": "ghost",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 303,
+      "identifier": "steel",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 303,
+      "identifier": "fairy",
+      "generation_id": 6
+    },
+    {
+      "pokemon_id": 304,
+      "identifier": "steel",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 304,
+      "identifier": "rock",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 305,
+      "identifier": "steel",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 305,
+      "identifier": "rock",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 306,
+      "identifier": "steel",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 306,
+      "identifier": "rock",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 307,
+      "identifier": "fighting",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 307,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 308,
+      "identifier": "fighting",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 308,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 309,
+      "identifier": "electric",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 310,
+      "identifier": "electric",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 311,
+      "identifier": "electric",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 312,
+      "identifier": "electric",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 313,
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 314,
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 315,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 315,
+      "identifier": "poison",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 316,
+      "identifier": "poison",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 317,
+      "identifier": "poison",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 318,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 318,
+      "identifier": "dark",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 319,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 319,
+      "identifier": "dark",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 320,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 321,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 322,
+      "identifier": "fire",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 322,
+      "identifier": "ground",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 323,
+      "identifier": "fire",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 323,
+      "identifier": "ground",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 324,
+      "identifier": "fire",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 325,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 326,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 327,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 328,
+      "identifier": "ground",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 329,
+      "identifier": "ground",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 329,
+      "identifier": "dragon",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 330,
+      "identifier": "ground",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 330,
+      "identifier": "dragon",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 331,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 332,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 332,
+      "identifier": "dark",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 333,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 333,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 334,
+      "identifier": "dragon",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 334,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 335,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 336,
+      "identifier": "poison",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 337,
+      "identifier": "rock",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 337,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 338,
+      "identifier": "rock",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 338,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 339,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 339,
+      "identifier": "ground",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 340,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 340,
+      "identifier": "ground",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 341,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 342,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 342,
+      "identifier": "dark",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 343,
+      "identifier": "ground",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 343,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 344,
+      "identifier": "ground",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 344,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 345,
+      "identifier": "rock",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 345,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 346,
+      "identifier": "rock",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 346,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 347,
+      "identifier": "rock",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 347,
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 348,
+      "identifier": "rock",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 348,
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 349,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 350,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 351,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 352,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 353,
+      "identifier": "ghost",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 354,
+      "identifier": "ghost",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 355,
+      "identifier": "ghost",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 356,
+      "identifier": "ghost",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 357,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 357,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 358,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 359,
+      "identifier": "dark",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 360,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 361,
+      "identifier": "ice",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 362,
+      "identifier": "ice",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 363,
+      "identifier": "ice",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 363,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 364,
+      "identifier": "ice",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 364,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 365,
+      "identifier": "ice",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 365,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 366,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 367,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 368,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 369,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 369,
+      "identifier": "rock",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 370,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 371,
+      "identifier": "dragon",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 372,
+      "identifier": "dragon",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 373,
+      "identifier": "dragon",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 373,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 374,
+      "identifier": "steel",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 374,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 375,
+      "identifier": "steel",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 375,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 376,
+      "identifier": "steel",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 376,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 377,
+      "identifier": "rock",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 378,
+      "identifier": "ice",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 379,
+      "identifier": "steel",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 380,
+      "identifier": "dragon",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 380,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 381,
+      "identifier": "dragon",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 381,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 382,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 383,
+      "identifier": "ground",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 384,
+      "identifier": "dragon",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 384,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 385,
+      "identifier": "steel",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 385,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 386,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 387,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 388,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 389,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 389,
+      "identifier": "ground",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 390,
+      "identifier": "fire",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 391,
+      "identifier": "fire",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 391,
+      "identifier": "fighting",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 392,
+      "identifier": "fire",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 392,
+      "identifier": "fighting",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 393,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 394,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 395,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 395,
+      "identifier": "steel",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 396,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 396,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 397,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 397,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 398,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 398,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 399,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 400,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 400,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 401,
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 402,
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 403,
+      "identifier": "electric",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 404,
+      "identifier": "electric",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 405,
+      "identifier": "electric",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 406,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 406,
+      "identifier": "poison",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 407,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 407,
+      "identifier": "poison",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 408,
+      "identifier": "rock",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 409,
+      "identifier": "rock",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 410,
+      "identifier": "rock",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 410,
+      "identifier": "steel",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 411,
+      "identifier": "rock",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 411,
+      "identifier": "steel",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 412,
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 413,
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 413,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 414,
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 414,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 415,
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 415,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 416,
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 416,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 417,
+      "identifier": "electric",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 418,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 419,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 420,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 421,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 422,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 423,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 423,
+      "identifier": "ground",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 424,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 425,
+      "identifier": "ghost",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 425,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 426,
+      "identifier": "ghost",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 426,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 427,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 428,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 429,
+      "identifier": "ghost",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 430,
+      "identifier": "dark",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 430,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 431,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 432,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 433,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 434,
+      "identifier": "poison",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 434,
+      "identifier": "dark",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 435,
+      "identifier": "poison",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 435,
+      "identifier": "dark",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 436,
+      "identifier": "steel",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 436,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 437,
+      "identifier": "steel",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 437,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 438,
+      "identifier": "rock",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 439,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 439,
+      "identifier": "fairy",
+      "generation_id": 6
+    },
+    {
+      "pokemon_id": 440,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 441,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 441,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 442,
+      "identifier": "ghost",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 442,
+      "identifier": "dark",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 443,
+      "identifier": "dragon",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 443,
+      "identifier": "ground",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 444,
+      "identifier": "dragon",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 444,
+      "identifier": "ground",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 445,
+      "identifier": "dragon",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 445,
+      "identifier": "ground",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 446,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 447,
+      "identifier": "fighting",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 448,
+      "identifier": "fighting",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 448,
+      "identifier": "steel",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 449,
+      "identifier": "ground",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 450,
+      "identifier": "ground",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 451,
+      "identifier": "poison",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 451,
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 452,
+      "identifier": "poison",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 452,
+      "identifier": "dark",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 453,
+      "identifier": "poison",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 453,
+      "identifier": "fighting",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 454,
+      "identifier": "poison",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 454,
+      "identifier": "fighting",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 455,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 456,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 457,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 458,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 458,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 459,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 459,
+      "identifier": "ice",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 460,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 460,
+      "identifier": "ice",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 461,
+      "identifier": "dark",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 461,
+      "identifier": "ice",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 462,
+      "identifier": "electric",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 462,
+      "identifier": "steel",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 463,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 464,
+      "identifier": "ground",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 464,
+      "identifier": "rock",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 465,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 466,
+      "identifier": "electric",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 467,
+      "identifier": "fire",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 468,
+      "identifier": "fairy",
+      "generation_id": 6
+    },
+    {
+      "pokemon_id": 468,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 469,
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 469,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 470,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 471,
+      "identifier": "ice",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 472,
+      "identifier": "ground",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 472,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 473,
+      "identifier": "ice",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 473,
+      "identifier": "ground",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 474,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 475,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 475,
+      "identifier": "fighting",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 476,
+      "identifier": "rock",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 476,
+      "identifier": "steel",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 477,
+      "identifier": "ghost",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 478,
+      "identifier": "ice",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 478,
+      "identifier": "ghost",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 479,
+      "identifier": "electric",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 479,
+      "identifier": "ghost",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 480,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 481,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 482,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 483,
+      "identifier": "steel",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 483,
+      "identifier": "dragon",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 484,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 484,
+      "identifier": "dragon",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 485,
+      "identifier": "fire",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 485,
+      "identifier": "steel",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 486,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 487,
+      "identifier": "ghost",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 487,
+      "identifier": "dragon",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 488,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 489,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 490,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 491,
+      "identifier": "dark",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 492,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 493,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 494,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 494,
+      "identifier": "fire",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 495,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 496,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 497,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 498,
+      "identifier": "fire",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 499,
+      "identifier": "fire",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 499,
+      "identifier": "fighting",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 500,
+      "identifier": "fire",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 500,
+      "identifier": "fighting",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 501,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 502,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 503,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 504,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 505,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 506,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 507,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 508,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 509,
+      "identifier": "dark",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 510,
+      "identifier": "dark",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 511,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 512,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 513,
+      "identifier": "fire",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 514,
+      "identifier": "fire",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 515,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 516,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 517,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 518,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 519,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 519,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 520,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 520,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 521,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 521,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 522,
+      "identifier": "electric",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 523,
+      "identifier": "electric",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 524,
+      "identifier": "rock",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 525,
+      "identifier": "rock",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 526,
+      "identifier": "rock",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 527,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 527,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 528,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 528,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 529,
+      "identifier": "ground",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 530,
+      "identifier": "ground",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 530,
+      "identifier": "steel",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 531,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 532,
+      "identifier": "fighting",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 533,
+      "identifier": "fighting",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 534,
+      "identifier": "fighting",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 535,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 536,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 536,
+      "identifier": "ground",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 537,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 537,
+      "identifier": "ground",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 538,
+      "identifier": "fighting",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 539,
+      "identifier": "fighting",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 540,
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 540,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 541,
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 541,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 542,
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 542,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 543,
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 543,
+      "identifier": "poison",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 544,
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 544,
+      "identifier": "poison",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 545,
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 545,
+      "identifier": "poison",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 546,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 546,
+      "identifier": "fairy",
+      "generation_id": 6
+    },
+    {
+      "pokemon_id": 547,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 547,
+      "identifier": "fairy",
+      "generation_id": 6
+    },
+    {
+      "pokemon_id": 548,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 549,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 550,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 551,
+      "identifier": "ground",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 551,
+      "identifier": "dark",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 552,
+      "identifier": "ground",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 552,
+      "identifier": "dark",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 553,
+      "identifier": "ground",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 553,
+      "identifier": "dark",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 554,
+      "identifier": "fire",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 555,
+      "identifier": "fire",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 556,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 557,
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 557,
+      "identifier": "rock",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 558,
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 558,
+      "identifier": "rock",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 559,
+      "identifier": "dark",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 559,
+      "identifier": "fighting",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 560,
+      "identifier": "dark",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 560,
+      "identifier": "fighting",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 561,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 561,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 562,
+      "identifier": "ghost",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 563,
+      "identifier": "ghost",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 564,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 564,
+      "identifier": "rock",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 565,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 565,
+      "identifier": "rock",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 566,
+      "identifier": "rock",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 566,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 567,
+      "identifier": "rock",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 567,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 568,
+      "identifier": "poison",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 569,
+      "identifier": "poison",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 570,
+      "identifier": "dark",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 571,
+      "identifier": "dark",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 572,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 573,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 574,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 575,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 576,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 577,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 578,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 579,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 580,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 580,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 581,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 581,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 582,
+      "identifier": "ice",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 583,
+      "identifier": "ice",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 584,
+      "identifier": "ice",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 585,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 585,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 586,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 586,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 587,
+      "identifier": "electric",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 587,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 588,
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 589,
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 589,
+      "identifier": "steel",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 590,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 590,
+      "identifier": "poison",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 591,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 591,
+      "identifier": "poison",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 592,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 592,
+      "identifier": "ghost",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 593,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 593,
+      "identifier": "ghost",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 594,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 595,
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 595,
+      "identifier": "electric",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 596,
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 596,
+      "identifier": "electric",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 597,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 597,
+      "identifier": "steel",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 598,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 598,
+      "identifier": "steel",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 599,
+      "identifier": "steel",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 600,
+      "identifier": "steel",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 601,
+      "identifier": "steel",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 602,
+      "identifier": "electric",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 603,
+      "identifier": "electric",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 604,
+      "identifier": "electric",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 605,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 606,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 607,
+      "identifier": "ghost",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 607,
+      "identifier": "fire",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 608,
+      "identifier": "ghost",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 608,
+      "identifier": "fire",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 609,
+      "identifier": "ghost",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 609,
+      "identifier": "fire",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 610,
+      "identifier": "dragon",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 611,
+      "identifier": "dragon",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 612,
+      "identifier": "dragon",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 613,
+      "identifier": "ice",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 614,
+      "identifier": "ice",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 615,
+      "identifier": "ice",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 616,
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 617,
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 618,
+      "identifier": "ground",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 618,
+      "identifier": "electric",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 619,
+      "identifier": "fighting",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 620,
+      "identifier": "fighting",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 621,
+      "identifier": "dragon",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 622,
+      "identifier": "ground",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 622,
+      "identifier": "ghost",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 623,
+      "identifier": "ground",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 623,
+      "identifier": "ghost",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 624,
+      "identifier": "dark",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 624,
+      "identifier": "steel",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 625,
+      "identifier": "dark",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 625,
+      "identifier": "steel",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 626,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 627,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 627,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 628,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 628,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 629,
+      "identifier": "dark",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 629,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 630,
+      "identifier": "dark",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 630,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 631,
+      "identifier": "fire",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 632,
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 632,
+      "identifier": "steel",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 633,
+      "identifier": "dark",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 633,
+      "identifier": "dragon",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 634,
+      "identifier": "dark",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 634,
+      "identifier": "dragon",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 635,
+      "identifier": "dark",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 635,
+      "identifier": "dragon",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 636,
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 636,
+      "identifier": "fire",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 637,
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 637,
+      "identifier": "fire",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 638,
+      "identifier": "steel",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 638,
+      "identifier": "fighting",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 639,
+      "identifier": "rock",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 639,
+      "identifier": "fighting",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 640,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 640,
+      "identifier": "fighting",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 641,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 642,
+      "identifier": "electric",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 642,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 643,
+      "identifier": "dragon",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 643,
+      "identifier": "fire",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 644,
+      "identifier": "dragon",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 644,
+      "identifier": "electric",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 645,
+      "identifier": "ground",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 645,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 646,
+      "identifier": "dragon",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 646,
+      "identifier": "ice",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 647,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 647,
+      "identifier": "fighting",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 648,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 648,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 649,
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 649,
+      "identifier": "steel",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 650,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 651,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 652,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 652,
+      "identifier": "fighting",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 653,
+      "identifier": "fire",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 654,
+      "identifier": "fire",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 655,
+      "identifier": "fire",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 655,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 656,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 657,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 658,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 658,
+      "identifier": "dark",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 659,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 660,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 660,
+      "identifier": "ground",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 661,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 661,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 662,
+      "identifier": "fire",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 662,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 663,
+      "identifier": "fire",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 663,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 664,
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 665,
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 666,
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 666,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 667,
+      "identifier": "fire",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 667,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 668,
+      "identifier": "fire",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 668,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 669,
+      "identifier": "fairy",
+      "generation_id": 6
+    },
+    {
+      "pokemon_id": 670,
+      "identifier": "fairy",
+      "generation_id": 6
+    },
+    {
+      "pokemon_id": 671,
+      "identifier": "fairy",
+      "generation_id": 6
+    },
+    {
+      "pokemon_id": 672,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 673,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 674,
+      "identifier": "fighting",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 675,
+      "identifier": "fighting",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 675,
+      "identifier": "dark",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 676,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 677,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 678,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 679,
+      "identifier": "steel",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 679,
+      "identifier": "ghost",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 680,
+      "identifier": "steel",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 680,
+      "identifier": "ghost",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 681,
+      "identifier": "steel",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 681,
+      "identifier": "ghost",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 682,
+      "identifier": "fairy",
+      "generation_id": 6
+    },
+    {
+      "pokemon_id": 683,
+      "identifier": "fairy",
+      "generation_id": 6
+    },
+    {
+      "pokemon_id": 684,
+      "identifier": "fairy",
+      "generation_id": 6
+    },
+    {
+      "pokemon_id": 685,
+      "identifier": "fairy",
+      "generation_id": 6
+    },
+    {
+      "pokemon_id": 686,
+      "identifier": "dark",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 686,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 687,
+      "identifier": "dark",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 687,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 688,
+      "identifier": "rock",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 688,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 689,
+      "identifier": "rock",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 689,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 690,
+      "identifier": "poison",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 690,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 691,
+      "identifier": "poison",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 691,
+      "identifier": "dragon",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 692,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 693,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 694,
+      "identifier": "electric",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 694,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 695,
+      "identifier": "electric",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 695,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 696,
+      "identifier": "rock",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 696,
+      "identifier": "dragon",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 697,
+      "identifier": "rock",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 697,
+      "identifier": "dragon",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 698,
+      "identifier": "rock",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 698,
+      "identifier": "ice",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 699,
+      "identifier": "rock",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 699,
+      "identifier": "ice",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 700,
+      "identifier": "fairy",
+      "generation_id": 6
+    },
+    {
+      "pokemon_id": 701,
+      "identifier": "fighting",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 701,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 702,
+      "identifier": "electric",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 702,
+      "identifier": "fairy",
+      "generation_id": 6
+    },
+    {
+      "pokemon_id": 703,
+      "identifier": "rock",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 703,
+      "identifier": "fairy",
+      "generation_id": 6
+    },
+    {
+      "pokemon_id": 704,
+      "identifier": "dragon",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 705,
+      "identifier": "dragon",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 706,
+      "identifier": "dragon",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 707,
+      "identifier": "steel",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 707,
+      "identifier": "fairy",
+      "generation_id": 6
+    },
+    {
+      "pokemon_id": 708,
+      "identifier": "ghost",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 708,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 709,
+      "identifier": "ghost",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 709,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 710,
+      "identifier": "ghost",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 710,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 711,
+      "identifier": "ghost",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 711,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 712,
+      "identifier": "ice",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 713,
+      "identifier": "ice",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 714,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 714,
+      "identifier": "dragon",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 715,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 715,
+      "identifier": "dragon",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 716,
+      "identifier": "fairy",
+      "generation_id": 6
+    },
+    {
+      "pokemon_id": 717,
+      "identifier": "dark",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 717,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 718,
+      "identifier": "dragon",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 718,
+      "identifier": "ground",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 719,
+      "identifier": "rock",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 719,
+      "identifier": "fairy",
+      "generation_id": 6
+    },
+    {
+      "pokemon_id": 720,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 720,
+      "identifier": "ghost",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 721,
+      "identifier": "fire",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 721,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10001,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
       "pokemon_id": 10002,
-      "identifier": "shadow",
-      "generation_id": 3
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10003,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10004,
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10004,
+      "identifier": "ground",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10005,
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10005,
+      "identifier": "steel",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 10006,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10006,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10007,
+      "identifier": "ghost",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10007,
+      "identifier": "dragon",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10008,
+      "identifier": "electric",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10008,
+      "identifier": "fire",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10009,
+      "identifier": "electric",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10009,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10010,
+      "identifier": "electric",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10010,
+      "identifier": "ice",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10011,
+      "identifier": "electric",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10011,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10012,
+      "identifier": "electric",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10012,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10013,
+      "identifier": "fire",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10014,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10015,
+      "identifier": "ice",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10016,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10017,
+      "identifier": "fire",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10017,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10018,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10018,
+      "identifier": "fighting",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10019,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10020,
+      "identifier": "electric",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10020,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10021,
+      "identifier": "ground",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10021,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10022,
+      "identifier": "dragon",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10022,
+      "identifier": "ice",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10023,
+      "identifier": "dragon",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10023,
+      "identifier": "ice",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10024,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10024,
+      "identifier": "fighting",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10025,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10026,
+      "identifier": "steel",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 10026,
+      "identifier": "ghost",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10027,
+      "identifier": "ghost",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10027,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10028,
+      "identifier": "ghost",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10028,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10029,
+      "identifier": "ghost",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10029,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10030,
+      "identifier": "ghost",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10030,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10031,
+      "identifier": "ghost",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10031,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10032,
+      "identifier": "ghost",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10032,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10033,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10033,
+      "identifier": "poison",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10034,
+      "identifier": "fire",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10034,
+      "identifier": "dragon",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10035,
+      "identifier": "fire",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10035,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10036,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10037,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10038,
+      "identifier": "ghost",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10038,
+      "identifier": "poison",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10039,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10040,
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10040,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10041,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10041,
+      "identifier": "dark",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 10042,
+      "identifier": "rock",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10042,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10043,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10043,
+      "identifier": "fighting",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10044,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10045,
+      "identifier": "electric",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10045,
+      "identifier": "dragon",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10046,
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10046,
+      "identifier": "steel",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 10047,
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10047,
+      "identifier": "fighting",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10048,
+      "identifier": "dark",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 10048,
+      "identifier": "fire",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10049,
+      "identifier": "rock",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10049,
+      "identifier": "dark",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 10050,
+      "identifier": "fire",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10050,
+      "identifier": "fighting",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10051,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10051,
+      "identifier": "fairy",
+      "generation_id": 6
+    },
+    {
+      "pokemon_id": 10052,
+      "identifier": "steel",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 10052,
+      "identifier": "fairy",
+      "generation_id": 6
+    },
+    {
+      "pokemon_id": 10053,
+      "identifier": "steel",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 10054,
+      "identifier": "fighting",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10054,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10055,
+      "identifier": "electric",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10056,
+      "identifier": "ghost",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10057,
+      "identifier": "dark",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 10058,
+      "identifier": "dragon",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10058,
+      "identifier": "ground",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10059,
+      "identifier": "fighting",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10059,
+      "identifier": "steel",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 10060,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10060,
+      "identifier": "ice",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10061,
+      "identifier": "fairy",
+      "generation_id": 6
+    },
+    {
+      "pokemon_id": 10062,
+      "identifier": "dragon",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10062,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10063,
+      "identifier": "dragon",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10063,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10064,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10064,
+      "identifier": "ground",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10065,
+      "identifier": "grass",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10065,
+      "identifier": "dragon",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10066,
+      "identifier": "dark",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 10066,
+      "identifier": "ghost",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10067,
+      "identifier": "dragon",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10067,
+      "identifier": "fairy",
+      "generation_id": 6
+    },
+    {
+      "pokemon_id": 10068,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10068,
+      "identifier": "fighting",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10069,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10069,
+      "identifier": "fairy",
+      "generation_id": 6
+    },
+    {
+      "pokemon_id": 10070,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10070,
+      "identifier": "dark",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 10071,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10071,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10072,
+      "identifier": "steel",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 10072,
+      "identifier": "ground",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10073,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10073,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10074,
+      "identifier": "ice",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10075,
+      "identifier": "rock",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10075,
+      "identifier": "fairy",
+      "generation_id": 6
+    },
+    {
+      "pokemon_id": 10076,
+      "identifier": "steel",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 10076,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10077,
+      "identifier": "water",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10078,
+      "identifier": "ground",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10078,
+      "identifier": "fire",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10079,
+      "identifier": "dragon",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10079,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10080,
+      "identifier": "electric",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10081,
+      "identifier": "electric",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10082,
+      "identifier": "electric",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10083,
+      "identifier": "electric",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10084,
+      "identifier": "electric",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10085,
+      "identifier": "electric",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10086,
+      "identifier": "psychic",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10086,
+      "identifier": "dark",
+      "generation_id": 2
+    },
+    {
+      "pokemon_id": 10087,
+      "identifier": "fire",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10087,
+      "identifier": "ground",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10088,
+      "identifier": "normal",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10088,
+      "identifier": "fighting",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10089,
+      "identifier": "dragon",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10089,
+      "identifier": "flying",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10090,
+      "identifier": "bug",
+      "generation_id": 1
+    },
+    {
+      "pokemon_id": 10090,
+      "identifier": "poison",
+      "generation_id": 1
     }
   ]
 }  

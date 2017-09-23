@@ -7,7 +7,11 @@ var PokemonTypeSchema = new Schema({
     type: String,
     required: true
   },
-  type_id: {
+  identifier: {
+    type: String,
+    required: true
+  },
+  generation_id: {
     type: String,
     required: true
   }

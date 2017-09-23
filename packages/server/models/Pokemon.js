@@ -37,10 +37,6 @@ var PokemonSchema = new Schema({
   pokemon_type: [{
     type: Schema.Types.ObjectId,
     ref: "PokemonType"
-  }],
-  combat_type: [{
-    type: Schema.Types.ObjectId,
-    ref: "CombatType"
   }]
 });
 
