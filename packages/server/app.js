@@ -3,8 +3,13 @@ var path = require('path');
 var logger = require('morgan');
 var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
+var mongoose = require("mongoose");
 
-var app = express();
+mongoose.Promise = Promise;
+
+const app = express();
+
+require('./routes/PokemonRoutes.js')(app);
 
 // uncomment after placing your favicon in /public
 app.use(logger('dev'));
@@ -19,6 +24,20 @@ if (process.env.NODE_ENV === "production") {
 
 // Controllers
 app.use(require('./controllers'));
+
+//DB Connection
+mongoose.connect("mongodb://localhost/pokemon",{
+  useMongoClient: true,
+});
+var db = mongoose.connection;
+
+db.on("error", function (error) {
+  console.log("Mongoose Error: ", error);
+});
+
+db.once("open", function () {
+  console.log("Mongoose connection successful.");
+});
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
