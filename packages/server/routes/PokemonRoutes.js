@@ -1,3 +1,5 @@
+const cloudinary = require('cloudinary');
+const cloudinaryConfig = require('../config/cloudinary');
 const PokemonSeed = require('../models/pokemon.json')
 const Pokemon = require("../models/Pokemon.js");
 const PokemonType = require("../models/PokemonType.js");
@@ -5,9 +7,7 @@ const PokemonType = require("../models/PokemonType.js");
 
 module.exports = function (app) {
 app.get("/pokemon", function (req, res) {
-    console.log("inside");
     Pokemon.find({}, function (err, data) {
-      console.log("deeper");
       if (err) {
         console.log(err);
       }
@@ -19,6 +19,7 @@ app.get("/pokemon", function (req, res) {
   
   app.put("/pokemonSeed", function (req, res) {
     PokemonSeed.Pokemon.forEach(function(element) {
+      element.img_location = cloudinary.image(`pokemon_images/${element.pokemon_id}.png`);
       var newPokemon = new Pokemon(element);
       newPokemon.save(function (err, data) {
         if (err) {

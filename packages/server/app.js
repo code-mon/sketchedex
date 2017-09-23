@@ -1,3 +1,4 @@
+require('dotenv').config()
 var express = require('express');
 var path = require('path');
 var logger = require('morgan');
@@ -8,8 +9,6 @@ var mongoose = require("mongoose");
 mongoose.Promise = Promise;
 
 const app = express();
-
-require('./routes/PokemonRoutes.js')(app);
 
 // uncomment after placing your favicon in /public
 app.use(logger('dev'));
@@ -22,8 +21,7 @@ if (process.env.NODE_ENV === "production") {
   app.use(express.static("../client/public"));
 }
 
-// Controllers
-app.use(require('./controllers'));
+require('./routes/PokemonRoutes.js')(app);
 
 //DB Connection
 mongoose.connect("mongodb://localhost/pokemon",{
